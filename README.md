@@ -38,8 +38,22 @@ Low risk. High leverage. The boring 80% of sales — done in minutes.
 | 15 | [LinkedIn Prospect Deep Dive](./15-linkedin-deepdive/) | Pre-call Research | Profile text | 20 min → 60 sec |
 | 16 | [Win/Loss Analysis](./16-win-loss/) | Reporting | Quarterly CSV | full day → 3 min |
 | 17 | [Analyst Report → Accounts](./17-report-accounts/) | Prospecting | Analyst PDF | 2 hrs → 2 min |
+| 18 | [Competitive Mention Tracker](./18-competitive-mentions/) | Deal Intelligence | Gong transcripts | 3 hrs → 3 min |
+| 19 | [Multi-Thread Email Builder](./19-multi-thread-emails/) | Outreach | Account context | 1-2 hrs → 2 min |
+| 20 | [ICP Regression Scorecard](./20-icp-regression/) | Territory Planning | Historical deals CSV | never done → 3 min |
+| 21 | [Territory Segmenter](./21-territory-segmenter/) | Territory Planning | Account list CSV | hours → 2 min |
+| 22 | [Stakeholder Mapping](./22-stakeholder-mapping/) | Account Strategy | Call transcripts | manual → 2 min |
+| 23 | [Objection Library Builder](./23-objection-library/) | Enablement | Top rep transcripts | never done → 3 min |
+| 24 | [Pipeline Conversion Calculator](./24-pipeline-conversion/) | Reporting | Salesforce CSV | hours → 90 sec |
+| 25 | [Weekly Pipeline Digest](./25-pipeline-digest/) | Reporting | 2 weekly exports | 2 hrs → 90 sec |
+| 26 | [Website Enrichment](./26-website-enrichment/) | Prospecting | Company URLs CSV | hours → 5 min |
+| 27 | [Demo Script Personalizer](./27-demo-personalizer/) | Enablement | Demo script + context | 30 min → 90 sec |
+| 28 | [Forecast Sanity Checker](./28-forecast-checker/) | Pipeline Hygiene | Forecast + activity + transcripts | gut feel → 3 min |
+| 29 | [Proposal Comparison](./29-proposal-comparison/) | Negotiation | 2 proposals | 1 hr → 2 min |
+| 30 | [Account Plan Builder](./30-account-plan/) | Account Strategy | Mixed deal artifacts | half day → 3 min |
+| 31 | [Contract Redline Summarizer](./31-contract-redline/) | Negotiation | Redlined contract | 2 hrs → 2 min |
 
-*More use cases being added daily. Star ⭐ to follow along.*
+*All 31 use cases published. Star ⭐ to follow along.*
 
 ## How Each Use Case Works
 
